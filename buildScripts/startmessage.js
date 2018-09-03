@@ -1,4 +1,20 @@
-import chalk from "chalk";
+//var chalk = require('chalk');
 
-console.log(chalk.green('________FIRING UP ︻╦╤─ >>>>>>>>>>>>>>>>>>>>>>>>>'))
-console.log(chalk.red('(๑ᵕ̣̣̣̣̣̣︵ᵕ̣̣̣̣̣̣)'));
+import chalk from "chalk"; //error without babel
+
+
+console.log(chalk.green('******FIRING UP******'))
+console.log(chalk.blue('      ︻╦╤─   >>>>>>>>>>>>>>>>>>>>>>>>>'))
+console.log(" ")
+console.log(chalk.red('  (๑ᵕ̣̣̣̣̣̣︵ᵕ̣̣̣̣̣̣)'));
+console.log(" ")
+console.log(chalk.red('  (๑ᵕ̣̣̣̣̣̣︵ᵕ̣̣̣̣̣̣)'));
+console.log(" ")
+console.log(chalk.red('  (๑ᵕ̣̣̣̣̣̣︵ᵕ̣̣̣̣̣̣)'));
+console.log(" ")
+console.log(chalk.red('  (๑ᵕ̣̣̣̣̣̣︵ᵕ̣̣̣̣̣̣)'));
+console.log(" ")
+console.log(chalk.red('  (๑ᵕ̣̣̣̣̣̣︵ᵕ̣̣̣̣̣̣)'));
+console.log(" ")
+console.log(chalk.red('  (๑ᵕ̣̣̣̣̣̣︵ᵕ̣̣̣̣̣̣)'));
+console.log(" ")
